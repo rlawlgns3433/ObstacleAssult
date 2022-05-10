@@ -31,4 +31,7 @@ public:
 	
 	UPROPERTY(EditAnywhere)
 	bool Mybool = true;
+
+	UPROPERTY(EditAnywhere)
+	int32 Myint2 = 999;
 };
