@@ -1,0 +1,4 @@
+Breadcrumbs 'RenderingThread'
+Context 1/2
+	00 FilterReflectionEnvironment
+	01 ComputeDiffuseIrradiance

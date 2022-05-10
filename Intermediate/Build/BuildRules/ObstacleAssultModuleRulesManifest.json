@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\user\\Documents\\udemy_unreal\\C++\\ObstacleAssult\\Source\\ObstacleAssult\\ObstacleAssult.Build.cs",
+		"C:\\Users\\user\\Documents\\udemy_unreal\\C++\\ObstacleAssult\\Source\\ObstacleAssult.Target.cs",
+		"C:\\Users\\user\\Documents\\udemy_unreal\\C++\\ObstacleAssult\\Source\\ObstacleAssultEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

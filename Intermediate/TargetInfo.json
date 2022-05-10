@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ObstacleAssult",
+			"Path": "C:\\Users\\user\\Documents\\udemy_unreal\\C++\\ObstacleAssult\\Source\\ObstacleAssult.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ObstacleAssultEditor",
+			"Path": "C:\\Users\\user\\Documents\\udemy_unreal\\C++\\ObstacleAssult\\Source\\ObstacleAssultEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
