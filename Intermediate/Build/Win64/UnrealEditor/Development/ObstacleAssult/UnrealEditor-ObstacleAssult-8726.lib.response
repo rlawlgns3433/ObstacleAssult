@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObstacleAssult-8726.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\ObstacleAssultEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\MovingPlatform.cpp.obj"
+"C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\ObstacleAssult.cpp.obj"
+"C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\MovingPlatform.gen.cpp.obj"
+"C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\ObstacleAssult.init.gen.cpp.obj"
+"C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\UnrealEditor-ObstacleAssult-8726.lib"

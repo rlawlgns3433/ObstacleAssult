@@ -1,7 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
-
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "MovingPlatform.generated.h"
@@ -24,14 +23,8 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UPROPERTY(EditAnywhere)
-	int32 Myint = 99;
+	FVector MyVector = FVector(-1279.202889, -1915.479529, 8.291578);
 
 	UPROPERTY(EditAnywhere)
-	float Myfloat = 5.99;
-	
-	UPROPERTY(EditAnywhere)
-	bool Mybool = true;
-
-	UPROPERTY(EditAnywhere)
-	int32 Myint2 = 999;
+		float MyX = 0;
 };

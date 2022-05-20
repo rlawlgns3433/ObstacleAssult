@@ -34,8 +34,8 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\ObstacleAssultEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\MovingPlatform.cpp.obj"
 "C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\ObstacleAssult.cpp.obj"
+"C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\MovingPlatform.cpp.obj"
 "C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\MovingPlatform.gen.cpp.obj"
 "C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\ObstacleAssult.init.gen.cpp.obj"
 "C:\Users\user\Documents\udemy_unreal\C++\ObstacleAssult\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssult\Default.rc2.res"

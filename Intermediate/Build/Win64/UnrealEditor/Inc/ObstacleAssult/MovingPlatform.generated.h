@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define OBSTACLEASSULT_MovingPlatform_generated_h
 
-#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_SPARSE_DATA
-#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_RPC_WRAPPERS
-#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_SPARSE_DATA
+#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_RPC_WRAPPERS
+#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMovingPlatform(); \
 	friend struct Z_Construct_UClass_AMovingPlatform_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(AMovingPlatform)
 
 
-#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_INCLASS \
+#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_INCLASS \
 private: \
 	static void StaticRegisterNativesAMovingPlatform(); \
 	friend struct Z_Construct_UClass_AMovingPlatform_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(AMovingPlatform)
 
 
-#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_STANDARD_CONSTRUCTORS \
+#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AMovingPlatform(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMovingPlatform) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AMovingPlatform(AMovingPlatform&&); \
@@ -58,25 +58,25 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AMovingPlatform)
 
 
-#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_9_PROLOG
-#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_GENERATED_BODY_LEGACY \
+#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_8_PROLOG
+#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_SPARSE_DATA \
-	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_RPC_WRAPPERS \
-	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_INCLASS \
-	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_STANDARD_CONSTRUCTORS \
+	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_SPARSE_DATA \
+	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_RPC_WRAPPERS \
+	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_INCLASS \
+	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_GENERATED_BODY \
+#define FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_SPARSE_DATA \
-	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_INCLASS_NO_PURE_DECLS \
-	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_12_ENHANCED_CONSTRUCTORS \
+	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_SPARSE_DATA \
+	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_INCLASS_NO_PURE_DECLS \
+	FID_ObstacleAssult_Source_ObstacleAssult_MovingPlatform_h_11_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
