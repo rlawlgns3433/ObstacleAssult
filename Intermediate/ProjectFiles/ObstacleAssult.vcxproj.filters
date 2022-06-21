@@ -11,6 +11,8 @@
     <None Include="..\..\Source\ObstacleAssultEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <None Include="..\..\.ignore" />
     <None Include="..\..\Link to Source Assets.txt" />
     <None Include="..\..\ObstacleAssult.code-workspace" />

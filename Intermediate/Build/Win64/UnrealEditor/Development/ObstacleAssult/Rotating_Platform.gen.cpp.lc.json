@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\udemy_unreal\\c++\\obstacleassult\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassult\\rotating_platform.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\udemy_unreal\\c++\\obstacleassult\\intermediate\\build\\win64\\obstacleassulteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\udemy_unreal\\c++\\obstacleassult\\intermediate\\build\\win64\\unrealeditor\\development\\obstacleassult\\definitions.obstacleassult.h",
+            "c:\\users\\user\\documents\\udemy_unreal\\c++\\obstacleassult\\source\\obstacleassult\\rotating_platform.h",
+            "c:\\users\\user\\documents\\udemy_unreal\\c++\\obstacleassult\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassult\\rotating_platform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
